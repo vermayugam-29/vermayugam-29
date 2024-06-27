@@ -9,14 +9,6 @@
 
 - 📫 How to reach me **yugamverma003@gmail.com**
 
-<style>
-  .icon-container {
-    padding: 5px;
-    background-color: white;
-    border-radius: 5px;
-  }
-</style>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/yugam_verma" target="blank"><img class="icon-container" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermayugam_29" height="30" width="40" /></a>
