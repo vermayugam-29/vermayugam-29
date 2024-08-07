@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Nextjs , Reactjs , Nodejs , JAVA**<br>🌱 I’m currently learning **Nextjs** <br>💬 Ask me **anything , but in HINDI**
+🔭 I’m currently working on **Nextjs , Reactjs , Nodejs , JAVA**<br>🌱 I’m currently learning **Nextjs** <br>💬 Ask me **anything , kuch bhi puch lo yarr guys**
 
 
 ## 🌐 Socials:
